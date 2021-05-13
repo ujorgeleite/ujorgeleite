@@ -26,8 +26,9 @@
 <br/>
 <br/>
 
-[![Jorge Leite Github Stats](https://github-readme-stats.vercel.app/api?username=ujorgeleite&count_private=true&show_icons=true&theme=nightowl)](https://github.com/ujorgeleite) 
+### Stats 📉
 
+[![Jorge Leite Github Stats](https://github-readme-stats.vercel.app/api?username=ujorgeleite&count_private=true&show_icons=true&theme=nightowl)](https://github.com/ujorgeleite) 
 [![Jorge Leite Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=ujorgeleite&show_icons=true&theme=nightowl)](https://github.com/ujorgeleite)
 
 
